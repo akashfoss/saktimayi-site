@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Akash Krishnan</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand"> Akash Krishnan </a>
+    </div>
+    <ul class="nav navbar-nav navbar-right">
+      <li class="active"><a href="index.html">Home</a></li>
+      <li><a href="about.html">About </a></li>
+      <li><a href="https://learntillyoudie.wordpress.com/" >Blog</a></li>
+      <li><a href="https://github.com/akashfoss/" >Github</a></li>
+    </ul>
+  </div>
+</nav>
+
+
+  </head>
+  <body>
+
+
+
+
+<!-- Image Background Page Header -->
+    <body background="index.jpg">
+    <header class="business-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h1 class="tagline"><font color="white">Dream Blogger</font></h1>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Page Content -->
+    <div class="container">
+
+        <hr>
+
+        <div class="row">
+            <div class="col-sm-8">
+                <h2>What I Do</h2>
+                <p>Morning to evening Academics, rest for open source</p>
+            </div>
+            <div class="col-sm-4">
+                <h2>Contact Me</h2>
+                <address>
+                    <strong>Akash Krishnan</strong>
+                    <br>Amrita University
+                    <br>Kollam, Kerala
+                    <br>Pincode : 690525
+                </address>
+                <address>
+                    <abbr title="Email">E-mail ID-</abbr> <a href="mailto:#">akashkrishnan705@gmail.com</a>
+                </address>
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <hr>
+
+        <div class="row">
+            <div class="col-sm-4">
+                <img class="img-circle img-responsive img-center" src="rubiks.jpg" alt="">
+                <h2>Speedcubing</h2>
+                <p>Get into cubes</p>
+            </div>
+           
+            <div class="col-sm-4">
+                <img class="img-circle img-responsive img-center" src="academics.jpg" alt="">
+                <h2>Academics</h2>
+                <p>Currently a second year B.Tech student</p>
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <hr>
+
+        <!-- Footer -->
+        <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>Personal &copy; akashfoss.github.io</p>
+                </div>
+            </div>
+            <!-- /.row -->
+        </footer>
+
+    </div>
+
+
+    <!--script for angular js>
+     
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>
